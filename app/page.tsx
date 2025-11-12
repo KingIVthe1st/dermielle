@@ -595,7 +595,7 @@ function CTASection() {
           {/* Contact Options */}
           <div className="grid md:grid-cols-3 gap-6 mb-12">
             <motion.a
-              href="tel:+18885204314"
+              href="tel:+13233341046"
               whileHover={{ scale: 1.05 }}
               className="glass text-white p-6 rounded-2xl hover:bg-white/20 transition-all"
             >
@@ -605,13 +605,13 @@ function CTASection() {
             </motion.a>
 
             <motion.a
-              href="mailto:hello@dermielle.com"
+              href="mailto:info@dermielle.com"
               whileHover={{ scale: 1.05 }}
               className="glass text-white p-6 rounded-2xl hover:bg-white/20 transition-all"
             >
               <Mail className="w-8 h-8 mx-auto mb-3 text-brand-accent" />
               <div className="font-semibold mb-1">Email Us</div>
-              <div className="text-white/70 text-sm">hello@dermielle.com</div>
+              <div className="text-white/70 text-sm">info@dermielle.com</div>
             </motion.a>
 
             <motion.a
@@ -626,7 +626,7 @@ function CTASection() {
           </div>
 
           <motion.a
-            href="tel:+18885204314"
+            href="tel:+13233341046"
             whileHover={{ scale: 1.05 }}
             whileTap={{ scale: 0.95 }}
             className="inline-block bg-white text-brand-primary px-10 py-5 rounded-full font-bold text-lg hover:shadow-2xl transition-all duration-300"
