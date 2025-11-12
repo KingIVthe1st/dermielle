@@ -13,6 +13,15 @@ export const metadata: Metadata = {
   description: "Experience premium car buying with our expert concierge service. Personalized recommendations, nationwide vehicle sourcing, and stress-free delivery for luxury and lightly used cars.",
   keywords: ["car buying", "luxury cars", "car concierge", "auto broker", "car buying service", "used cars", "nationwide car dealer"],
 
+  // Favicon
+  icons: {
+    icon: [
+      { url: "/car-icon.svg", type: "image/svg+xml" },
+    ],
+    shortcut: "/car-icon.svg",
+    apple: "/car-icon.svg",
+  },
+
   // OpenGraph Meta Tags for Social Sharing
   openGraph: {
     type: "website",
