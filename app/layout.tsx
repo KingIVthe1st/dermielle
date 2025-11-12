@@ -23,7 +23,7 @@ export const metadata: Metadata = {
     description: "Experience premium car buying with our expert concierge service. Personalized recommendations, nationwide vehicle sourcing, and stress-free delivery for luxury and lightly used cars.",
     images: [
       {
-        url: "/socialshare.png",
+        url: "/socialsharenew.png",
         width: 1200,
         height: 630,
         alt: "Dermielle - Premium Car Buying Concierge Service",
@@ -36,7 +36,7 @@ export const metadata: Metadata = {
     card: "summary_large_image",
     title: "Dermielle | Stress-Free Luxury Car Buying Concierge",
     description: "Experience premium car buying with our expert concierge service. Personalized recommendations, nationwide vehicle sourcing, and stress-free delivery for luxury and lightly used cars.",
-    images: ["/socialshare.png"],
+    images: ["/socialsharenew.png"],
   },
 
   // Additional Meta Tags
