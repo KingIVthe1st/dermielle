@@ -60,14 +60,13 @@ function Navigation() {
             initial={{ opacity: 0 }}
             animate={{ opacity: 1 }}
             transition={{ delay: 0.2 }}
-            className="flex items-center space-x-2"
+            className="flex items-center"
           >
-            <div className="w-10 h-10 bg-gradient-gold rounded-lg flex items-center justify-center">
-              <Car className="w-6 h-6 text-white" />
-            </div>
-            <span className="text-2xl font-bold text-white">
-              Dermielle
-            </span>
+            <img
+              src="/dermiellelogo.png"
+              alt="Dermielle Logo"
+              className="h-12 w-auto"
+            />
           </motion.div>
 
           {/* Navigation Links */}
@@ -647,11 +646,12 @@ function Footer() {
         <div className="grid md:grid-cols-4 gap-12 mb-12">
           {/* Brand */}
           <div className="md:col-span-2">
-            <div className="flex items-center space-x-2 mb-4">
-              <div className="w-10 h-10 bg-gradient-gold rounded-lg flex items-center justify-center">
-                <Car className="w-6 h-6 text-white" />
-              </div>
-              <span className="text-2xl font-bold">Dermielle</span>
+            <div className="flex items-center mb-4">
+              <img
+                src="/dermiellelogo.png"
+                alt="Dermielle Logo"
+                className="h-10 w-auto"
+              />
             </div>
             <p className="text-neutral-400 mb-6 max-w-md">
               Dermielle is a nationwide car brokerage providing a concierge service for stress-free purchases.
