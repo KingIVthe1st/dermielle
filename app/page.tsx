@@ -601,7 +601,7 @@ function CTASection() {
             >
               <Phone className="w-8 h-8 mx-auto mb-3 text-brand-accent" />
               <div className="font-semibold mb-1">Call Us</div>
-              <div className="text-white/70 text-sm">(888) 520-4314</div>
+              <div className="text-white/70 text-sm">(323) 334-1046</div>
             </motion.a>
 
             <motion.a
@@ -659,7 +659,7 @@ function Footer() {
             </p>
             <div className="flex items-center space-x-2 text-neutral-400">
               <Phone className="w-4 h-4" />
-              <span>(888) 520-4314</span>
+              <span>(323) 334-1046</span>
             </div>
           </div>
 
