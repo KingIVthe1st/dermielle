@@ -65,7 +65,7 @@ function Navigation() {
             <img
               src="/dermiellelogo.png"
               alt="Dermielle Logo"
-              className="h-[60px] w-auto"
+              className="h-[75px] w-auto"
             />
           </motion.div>
 
@@ -650,7 +650,7 @@ function Footer() {
               <img
                 src="/dermiellelogo.png"
                 alt="Dermielle Logo"
-                className="h-[50px] w-auto"
+                className="h-[63px] w-auto"
               />
             </div>
             <p className="text-neutral-400 mb-6 max-w-md">
